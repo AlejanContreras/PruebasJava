@@ -19,7 +19,7 @@ public class /*nombre del archivo ->*/Basicos {
         /*Scaner o para leer informacion enviada desde el terminal,
         para crearlo toca importar la bilioteca de: java.util.Scanner;
         y crearle una variable como la siguiente*/
-        
+            
         System.out.println("Ingrese algun numero");
         //variable para el scanner
         int mostrarScanner;
