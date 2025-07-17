@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //Estructura basica para poder codificar en java
 
-public class /*nombre del archivo ->*/PruebaJava {
+public class /*nombre del archivo ->*/Basicos {
 
     public static void main(String[] args) {
         //Codigo
