@@ -77,7 +77,7 @@ public class Variables {
         System.out.println(texto.replace("o","a"));
         System.out.println(texto.replace("Pollo","polla"));
         System.out.println(texto.replaceAll("Arroz Con Pollo","Arrocé with polla"));
-        // true o false si en el texto esta sierta palabra en el texto
+        // true o false si en el texto esta cierta palabra en el texto
         System.out.println(texto.endsWith("x"));
         System.out.println(texto.startsWith("A"));
         System.out.println(texto.contains("o"));
